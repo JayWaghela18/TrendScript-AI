@@ -1,0 +1,7 @@
+project_id = "kxscvygmsldclvqllgwf"
+
+[functions.predict-trends]
+verify_jwt = false
+
+[functions.generate-script]
+verify_jwt = false
